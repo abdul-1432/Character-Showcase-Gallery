@@ -29,7 +29,7 @@ Check out the live demo [here](#).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/character-showcase-gallery.git
+   git clone https://github.com/abdul-1432/Character-Showcase-Gallery.git
    ```
 
 2. Open `index.html` in your preferred web browser.
