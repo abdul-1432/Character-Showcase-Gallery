@@ -1,6 +1,3 @@
-Certainly! Below is a template for a GitHub README file for a Character Showcase Gallery:
-
-```markdown
 # Character Showcase Gallery
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -9,7 +6,12 @@ Certainly! Below is a template for a GitHub README file for a Character Showcase
 
 The Character Showcase Gallery is a web application that allows users to display and explore various characters. Whether you're a game developer, writer, or just a fan of characters, this gallery provides a visually appealing way to showcase and explore different character designs.
 
-![Character Showcase Gallery](demo.png)
+
+![before](https://github.com/abdul-1432/Character-Showcase-Gallery/assets/124916666/821c3ee5-067b-4b2f-9493-4cbe11c8b975)
+
+
+
+
 
 ## Features
 
