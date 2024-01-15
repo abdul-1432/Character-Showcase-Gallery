@@ -55,11 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or feedback, please contact [your-email@example.com].
-
----
-
-Feel free to fork and modify this template to fit the specific needs and details of your Character Showcase Gallery project. Good luck with your project!
-``` 
-
-Remember to replace placeholders such as `[your-username]`, `[your-email@example.com]`, and add specific details relevant to your project. Additionally, consider providing a live demo link once you have your project hosted.
+For any inquiries or feedback, please contact [gafoor.mngr@gmail.com].
