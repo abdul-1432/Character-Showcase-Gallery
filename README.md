@@ -9,6 +9,7 @@ The Character Showcase Gallery is a web application that allows users to display
 
 ![before](https://github.com/abdul-1432/Character-Showcase-Gallery/assets/124916666/821c3ee5-067b-4b2f-9493-4cbe11c8b975)
 
+![After](https://github.com/abdul-1432/Character-Showcase-Gallery/assets/124916666/7fd35f03-112c-4285-ab3c-98f28bbd3a0e)
 
 
 
